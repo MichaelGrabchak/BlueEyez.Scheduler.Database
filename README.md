@@ -1,1 +1,1 @@
-# BlueEyez.Scheduler.Database.Core
+# BlueEyez.Scheduler.Database
